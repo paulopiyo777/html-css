@@ -1,0 +1,21 @@
+div {
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+}
+
+img {
+    border: 10px groove orange;
+}
+
+.cat1 {
+    border: 10px dashed orange;
+}
+
+.cat2 {
+    border: 10px dotted orange;
+}
+
+.cat3 {
+    border: 10px double orange;
+}
