@@ -1,0 +1,26 @@
+div {
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    border-radius: 100%;
+    background-image: url("../005_emmet/cat.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+img {
+    border: 10px groove orange;
+    border-radius: 100%;
+}
+
+.cat1 {
+    border: 10px dashed orange;
+}
+
+.cat2 {
+    border: 10px dotted orange;
+}
+
+.cat3 {
+    border: 10px double orange;
+}
