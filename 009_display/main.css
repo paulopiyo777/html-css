@@ -7,10 +7,12 @@ div {
 }
 
 img {
-    border: 10px groove orange;
-    border-radius: 100%;
+    width: 200px;
+    border: 10px groove orangered;
+    box-sizing: border-box;
+    /*border-radius: 100%;*/
     padding: 20px;
-    margin: 40px;
+    /*margin: 40px;*/
 }
 
 .cat1 {
