@@ -8,12 +8,15 @@ p {
     margin: 20px;
 }
 
+/*customize the first letter of each line*/
 p::first-letter {
+    color: aqua;
     font-family: cursive;
     font-size: 36px;
     line-height: .5;
 }
 
+/*customize the whole first line*/
 p::first-line {
     color: sienna;
     font-weight: 900;
