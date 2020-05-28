@@ -1,0 +1,12 @@
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: green;
+    text-decoration: underline;
+}
+
+div {
+    text-decoration: underline;
+}
