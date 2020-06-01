@@ -8,7 +8,7 @@ ul {
 
 li {
     border: 2px blue;
-    background-color: aqua;
+    /*background-color: aqua;*/
     border-radius: 50px;
     display: inline-block;
 }
