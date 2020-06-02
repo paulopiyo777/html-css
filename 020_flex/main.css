@@ -1,0 +1,15 @@
+/*flex container*/
+body {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/*flex items*/
+div {
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    border: 1px solid blue;
+    text-align: center;
+    background-color: lawngreen;
+}
